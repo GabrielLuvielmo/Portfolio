@@ -2,6 +2,7 @@ const buttons = {
     'homepage': '../index.html',
     'materias': './materias.html',
     'PPE': '../PPE/ppe.html',
+    'tecnico': '../Técnico/tec.html',
     'button1': './Mat/mat.html',
     'button2': './Lin/lin.html',
     'button3': './CHU/chu.html',

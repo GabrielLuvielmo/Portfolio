@@ -1,7 +1,8 @@
 const buttons = {
     'homepage': '../../index.html',
     'materias': '../materias.html',
-    'PPE': '../../PPE/ppe.html'
+    'PPE': '../../PPE/ppe.html',
+    'tecnico': '../../Técnico/tec.html'
   };
   
   document.querySelectorAll('.nav-button').forEach((button) => {
