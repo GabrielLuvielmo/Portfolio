@@ -1,8 +1,8 @@
 const buttons = {
     'homepage': '../../index.html',
-    'materias': '../materias.html',
+    'materias': '../../Materias/materias.html',
     'PPE': '../../PPE/ppe.html',
-    'tecnico': '../../Técnico/tec.html'
+    'tecnico': '../tec.html',
   };
   
   document.querySelectorAll('.nav-button').forEach((button) => {
@@ -13,7 +13,7 @@ const buttons = {
       }
     });
   });
-  
+
   function goToPage(url) {
     window.location.href = url;
   }

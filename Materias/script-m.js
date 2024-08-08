@@ -3,10 +3,10 @@ const buttons = {
     'materias': './materias.html',
     'PPE': '../PPE/ppe.html',
     'tecnico': '../Técnico/tec.html',
-    'button1': './Mat/mat.html',
-    'button2': './Lin/lin.html',
-    'button3': './CHU/chu.html',
-    'button4': './CNA/cna.html'
+    'button1': './areas/mat.html',
+    'button2': './areas/lin.html',
+    'button3': './areas/chu.html',
+    'button4': './areas/cna.html'
 };
 
 document.querySelectorAll('.nav-button').forEach((button) => {
