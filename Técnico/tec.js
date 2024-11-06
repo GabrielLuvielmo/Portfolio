@@ -6,7 +6,8 @@ const buttons = {
     'button1': './tareas/modelagem.html',
     'button2': './tareas/banco.html',
     'button3': './tareas/desenvolvimento.html',
-    'button4': './tareas/implantacao.html'
+    'button4': './tareas/implantacao.html',
+    'button5': './tareas/aplicativos.html'
   };
   
   document.querySelectorAll('.nav-button').forEach((button) => {
